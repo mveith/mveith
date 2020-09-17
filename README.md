@@ -4,6 +4,8 @@ BE developer at [Mews](https://github.com/MewsSystems/developers) (Merchant team
 
 C# | .NET | [AZURE](https://azure.microsoft.com/) | [STRIPE](https://stripe.com/) | [ADYEN](https://www.adyen.com/)
 
+Twitter: [miroveith](https://twitter.com/miroveith) | Linkedin: [mveith](https://www.linkedin.com/in/mveith/)
+
 ### Side projects
 
 #### Dataviz app `Život během pandemie`
